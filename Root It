@@ -1,0 +1,14 @@
+This is iso file based on ubuntu to practice privilage escalation. 
+
+Iso will have 3 Users
+
+1. User
+2. SuperUser
+3. Root
+
+Box will cover following privilage escalations for first build
+
+1. SUID
+2. SUDO
+3. Cronjob
+4. Writable Files
