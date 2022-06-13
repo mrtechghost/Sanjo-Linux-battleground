@@ -1,11 +1,9 @@
 # linux privilege escalation
 
 
-Hey you are here in search of linux privileage esclation tool/method/practive tool. So you are at right place. Here I will post some of the awesome resources available
-online for linux privileage escalation as well as I am creating one vulnerable machine for begineers, I know there are many. I am just making sure, I will add some valueto infosec community.
+Hey you are here in search of linux privileage esclation tool/method/practice tool. So you are at right place. Here I will post some of the awesome resources available online for linux privileage escalation as well as I am creating one vulnerable machine for begineers, I know there are many. I am just making sure, I will add some value to infosec community.
 
 I have followed serveral blogs and corses to create this vm mentioning some of them below
-
 
 
 1. Linux Privilege Escalation for OSCP & Beyond! by Tib3rius ⁣
