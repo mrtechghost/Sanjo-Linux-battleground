@@ -1,4 +1,4 @@
-# linux-privileage-esclation-basic
+# linux privilege escalation
 
 
 Hey you are here in search of linux privileage esclation tool/method/practive tool. So you are at right place. Here I will post some of the awesome resources available
