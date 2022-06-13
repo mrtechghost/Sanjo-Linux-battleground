@@ -1,6 +1,10 @@
+Sanjo blueprint. 
+
+Will be working on this to create vm
+
 This is iso file based on ubuntu to practice privilage escalation. 
 
-Iso will have 3 Users
+Iso will have 5 Users
 
 1. User
 2. SuperUser
