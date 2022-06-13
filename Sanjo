@@ -1,0 +1,28 @@
+Finally, have created Linux privilege escalation battleground for beginners.
+
+I know there are several other boxes out there. This was just my fun project which I want to share with all. You can download ova file from google drive. Please let me know if you have found any issue.
+
+Box Discription
+
+Ubuntu latest release (x64)
+
+Vunerabliities:-
+
+Some SUID binaries
+
+SUDO permission missconfiguration
+
+Weak File Permissions
+
+Cronjob
+
+VM has five uses. You can do privilege escalation horizontally as well as vertically 
+
+sujata -- >> sanghamitra -->> rahul -->> milind -->> mahendra
+
+To start exploitation, you can use the following credentials:- 
+
+sujata passwodisimp
+
+
+https://drive.google.com/file/d/1_e2-UBXwYYWGeHrlGAKKfee5bYP8XwjI/view?usp=sharing 
